@@ -1,6 +1,5 @@
 import React from 'react'
-import IWD from '../images/indiawebdesigns_Fotor.jpg'
-import Campk12 from '../images/campk12.png'
+
 
 const WorkExperience = () => {
     return (
@@ -9,7 +8,7 @@ const WorkExperience = () => {
                 <div className="row" >
                     <div className="col-sm">
                         <div className="card" style={{ width: "" }}>
-                            {/* <img className="card-img-top" src={IWD} alt="Card image cap" /> */}
+
                             <div className="card-body">
                                 <h5 className="card-title">India Web Designs, (July 2019- Feb 2020)</h5>
                                 <p className="card-text">
@@ -23,7 +22,7 @@ const WorkExperience = () => {
                     </div>
                     <div className="col-sm">
                         <div className="card" style={{ width: "" }}>
-                            {/* <img className="card-img-top" src={Campk12} alt="Card image cap" /> */}
+
                             <div className="card-body">
                                 <h5 className="card-title">CampK12 (June 2020 - Present)</h5>
                                 <p className="card-text">
