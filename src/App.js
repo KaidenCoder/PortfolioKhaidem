@@ -16,11 +16,11 @@ function App() {
       <Header />
       <Navbar />
       <hr />
-      <Route exact path="/PortfolioKhaidem/skills" component={Skills} />
-      <Route exact path="/PortfolioKhaidem/education" component={Education} />
-      <Route exact path="/PortfolioKhaidem/workexp" component={WorkExperience} />
-      <Route exact path="/PortfolioKhaidem/projects" component={Projects} />
-      <Route exact path="/PortfolioKhaidem/contact" component={Contact} />
+      <Route exact path="/skills" component={Skills} />
+      <Route exact path="/education" component={Education} />
+      <Route exact path="/workexp" component={WorkExperience} />
+      <Route exact path="/projects" component={Projects} />
+      <Route exact path="/contact" component={Contact} />
     </Router>
 
   );
