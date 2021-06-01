@@ -2,6 +2,9 @@
   "homepage": "http://kurosakicoder.github.io/PortfolioKhaidem",
   "name": "portfoliowebsite",
   "version": "0.1.0",
+  "engines": {
+    "node": "v12.17.0"
+  },
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
