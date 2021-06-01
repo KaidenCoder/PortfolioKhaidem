@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/PortfolioKhaidem/static/css/main.c5f70d99.chunk.css",
+    "main.js": "/PortfolioKhaidem/static/js/main.e48b9d17.chunk.js",
+    "main.js.map": "/PortfolioKhaidem/static/js/main.e48b9d17.chunk.js.map",
+    "runtime-main.js": "/PortfolioKhaidem/static/js/runtime-main.a93062d7.js",
+    "runtime-main.js.map": "/PortfolioKhaidem/static/js/runtime-main.a93062d7.js.map",
+    "static/js/2.c73daf60.chunk.js": "/PortfolioKhaidem/static/js/2.c73daf60.chunk.js",
+    "static/js/2.c73daf60.chunk.js.map": "/PortfolioKhaidem/static/js/2.c73daf60.chunk.js.map",
+    "static/js/3.a3100302.chunk.js": "/PortfolioKhaidem/static/js/3.a3100302.chunk.js",
+    "static/js/3.a3100302.chunk.js.map": "/PortfolioKhaidem/static/js/3.a3100302.chunk.js.map",
+    "index.html": "/PortfolioKhaidem/index.html",
+    "static/css/main.c5f70d99.chunk.css.map": "/PortfolioKhaidem/static/css/main.c5f70d99.chunk.css.map",
+    "static/js/2.c73daf60.chunk.js.LICENSE.txt": "/PortfolioKhaidem/static/js/2.c73daf60.chunk.js.LICENSE.txt",
+    "static/media/CalendarReact.302782e5.png": "/PortfolioKhaidem/static/media/CalendarReact.302782e5.png",
+    "static/media/campk12.192d0672.png": "/PortfolioKhaidem/static/media/campk12.192d0672.png",
+    "static/media/codingninjas_Fotor.dad0b86d.png": "/PortfolioKhaidem/static/media/codingninjas_Fotor.dad0b86d.png",
+    "static/media/covidmap.e4d17006.png": "/PortfolioKhaidem/static/media/covidmap.e4d17006.png",
+    "static/media/eehs.03776968.png": "/PortfolioKhaidem/static/media/eehs.03776968.png",
+    "static/media/indiawebdesigns_Fotor.0e1d7e4c.jpg": "/PortfolioKhaidem/static/media/indiawebdesigns_Fotor.0e1d7e4c.jpg",
+    "static/media/kurosaki.63225fbe.jpeg": "/PortfolioKhaidem/static/media/kurosaki.63225fbe.jpeg",
+    "static/media/profilechallenge.f1925d46.png": "/PortfolioKhaidem/static/media/profilechallenge.f1925d46.png",
+    "static/media/reactnative_Fotor.f9bf1dec.png": "/PortfolioKhaidem/static/media/reactnative_Fotor.f9bf1dec.png",
+    "static/media/udacity_Fotor.78e04c7e.png": "/PortfolioKhaidem/static/media/udacity_Fotor.78e04c7e.png",
+    "static/media/vit_Fotor.2fb71393.png": "/PortfolioKhaidem/static/media/vit_Fotor.2fb71393.png",
+    "static/media/wpsc.c21439b6.png": "/PortfolioKhaidem/static/media/wpsc.c21439b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a93062d7.js",
+    "static/js/2.c73daf60.chunk.js",
+    "static/css/main.c5f70d99.chunk.css",
+    "static/js/main.e48b9d17.chunk.js"
+  ]
+}
